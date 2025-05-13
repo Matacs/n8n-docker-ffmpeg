@@ -10,3 +10,4 @@ RUN apt-get update && \
 
 # Vuelve al usuario node
 USER node
+
